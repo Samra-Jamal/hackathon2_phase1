@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+"""
+Entry point script for the Todo In-Memory Console Application.
+"""
+from src.todo_app import main
+
+if __name__ == '__main__':
+    main()
